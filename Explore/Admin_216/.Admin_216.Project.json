@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "3plRSw5l0ALfxlBjmbPfsY",
+    "name" : "Admin_216",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Testing GetHub. Module 6",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
